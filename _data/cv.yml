@@ -2,96 +2,50 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Zhirui Luo
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D. of Computer Science and Engineering
+      institution: New Mexico Institute of Mining and Technology, Socorro, USA
+      year: 2020-2023
+    - title: M.S. of Computer Science and Engineering
+      institution: New Mexico Institute of Mining and Technology, Socorro, USA
+      year: 2018-2020
+    - title: B.S. of Computer Science and Engineering
+      institution: New Mexico Institute of Mining and Technology, Socorro, USA
+      year: 2015-2017
+    - title: B.E. of Software Engineering
+      institution: Yangtze University, Jingzhou, China
+      year: 2012-2015
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Teaching at Upward Bound Math and Science 
+      institution: New Mexico Tech
+      year: Summer 2022 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Teach 4-week introductory-level Python course
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Conferences and Workshop
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: The 7th International Conference on Smart Computing and Communication (SmartCom 2022) 
+      year: 2022
+      description: New Year, USA
+    - title: NSF EPSCoR Workshop on Artificial Intelligence & No-Boundary Thinking
+      year: 2022
+      description: Little Rock, Arkansas
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Best Student Paper Award, SmartCom 2022, New York, USA
+        - 1st place Graduate poster award, New Mexico Research Symposium Poster Session, 2022 
+        - 2nd place Graduate poster award, New Mexico Tech Student Research Symposium, 2022
